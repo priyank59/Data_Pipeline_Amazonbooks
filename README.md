@@ -26,4 +26,3 @@ Follow steps in the link - https://airflow.apache.org/docs/apache-airflow/stable
 ![alt text](images/Data_Pipeline_Amazon_Books.drawio.png)
 
 -----
------
